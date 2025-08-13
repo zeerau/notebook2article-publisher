@@ -1,0 +1,5 @@
+crewai
+langchain-community
+python-dotenv
+nbformat
+requests
